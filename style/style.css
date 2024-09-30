@@ -312,3 +312,10 @@ p.tagline {
   text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
+
+#no-result {
+  text-align: center;
+  font-size: 1.2em;
+  color: red;
+  margin-top: 20px;
+}
